@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://findofun.com/` 
+					`https://broadsheetspikesnick.com/v0xdgg43u?key=a814e8693a9ff31547dfe371de3bd0fc` 
 				}`,
 			},
 		};
